@@ -1,7 +1,7 @@
 {
-  "type": "simple",
-  "message": "Félicitations ! Merci d'utiliser Adina.",
-  "buttonVisibility": false,
-  "link": "",
-  "versionCode": 1
+  "type": "download",
+  "message": "Chers utilisateurs, la nouvelle version de Adina est désormais disponible. Pour en profiter, veuillez cliquer le bouton télécharger.",
+  "buttonVisibility": true,
+  "link": "https://raw.githubusercontent.com/masinjakamaminirina-stack/Notify/refs/heads/main/Notification.json",
+  "versionCode": 2
 }
